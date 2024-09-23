@@ -1,14 +1,14 @@
 {
     "tg": [
-        "get_the_bot_token_from_tg_botfather"
+        "7967604142:AAH-KxFSER-NV5-iavN5w0EPFvbL0Yt-My0"
     ],
-    "prefix": "-",
+    "prefix": "+",
     "webhookURL": "your_webhookURL", 
     "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
     "prefixText": "🌐 System prefix:",
-    "botName": "annie",
+    "botName": "Shiro Chan",
     "adminUids": [
-     "6371757771"
+     "5167977878"
     ],
     "PORT": 3000,
     "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
